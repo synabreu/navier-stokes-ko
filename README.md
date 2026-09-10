@@ -10,6 +10,7 @@ OpenAI가 공개한 *Finite time blowup for Navier-Stokes* 원본 PDF와 관련 
 | [`navier-stokes-ko-complete.md`](./navier-stokes-ko-complete.md) | 166쪽 분량의 증명 논문 전체를 한국어 평서체로 옮긴 Markdown 번역본이다. 원문의 절, 정리, 보조정리, 식 번호와 수식을 포함하며 수식 이미지는 문서 안에 내장되어 있다. |
 | [`navier-stokes-ko-complete.pdf`](./navier-stokes-ko-complete.pdf) | 전체 한국어 번역본을 읽기와 다운로드에 편한 PDF 형식으로 만든 파일이다. Markdown 완성본과 같은 내용을 담고 있다. |
 | [`openai-navier-stokes-korean-summary-v2.1.md`](./openai-navier-stokes-korean-summary-v2.1.md) | OpenAI 발표의 핵심 주장, 연구 과정, 주요 수치와 의미를 쉽게 읽을 수 있도록 정리한 한국어 상세 요약 v2.1이다. 공식 번역문은 아니다. |
+| [`navier-stokes-openai-qa-ko.md`](./navier-stokes-openai-qa-ko.md) | OpenAI 발표와 증명의 범위, Lean 형식 검증, 수학계·공학계의 비평과 우선권 논쟁, CFD와 실제 난류의 관계를 45개 문답으로 정리한 한국어 Q&A이다. |
 | [`figure-1-vortex-core.png`](./figure-1-vortex-core.png) | 특이점 발생 시각에 가까워질수록 수축하고 강해지는 소용돌이 핵심부를 설명하는 그림이다. v2.1 요약문에 사용된다. |
 | [`figure-2-pulse-geometry.png`](./figure-2-pulse-geometry.png) | 고리형 펄스의 배치와 반지름·방위각·축 방향 섭동 속도를 설명하는 그림이다. v2.1 요약문에 사용된다. |
 | [`ns-proof-explainer-v2.mp4`](./ns-proof-explainer-v2.mp4) | 방정식, 와도 늘어남, 다중 스케일 펄스, 유한시간 캐스케이드, 오차 추정과 증명 사슬을 94초로 설명하는 1280×720 무음 모션그래픽이다. |
